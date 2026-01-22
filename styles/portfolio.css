@@ -187,7 +187,7 @@ nav .menu a {
 #brain ul{
     padding-top: 40px;
     list-style: none;
-    list-style-image: url(/assets/check\ mark.png);
+    list-style-image: url(../assets/check\ mark.png);
     list-style-position: inside;
 }
 
