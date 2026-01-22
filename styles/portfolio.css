@@ -186,3 +186,39 @@ nav .menu a {
 #brain ul li{
     padding-bottom: 16px;
 }
+
+#think {
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 120px;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+#think .think-content{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: center;
+    background-color: #f7f6f2;
+}
+
+#think .think-content h1{
+    font-size: 40px;
+    color: #001931;
+    padding-bottom: 16px;
+}
+
+#think .p1{
+    color: #627382;
+    line-height: 24px;
+    padding-bottom: 24px;
+}
+
+#think .p2{
+    color: #627382;
+    font-size: 16px;
+    padding-top: 16px;
+}
+
