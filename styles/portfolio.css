@@ -68,6 +68,9 @@ nav .menu a {
 }
 
 .hero-button {
+    background: url(../assets/Group\ 5.png);
+    background-repeat: no-repeat;
+    background-position: 10px 9.5px;
     background-color: white;
     color: #30B868;
     font-size: 16px;
@@ -102,4 +105,48 @@ nav .menu a {
     color: white;
     font-size: 16px;
     font-weight: 500;
+}
+
+#notes {
+    margin-top: 70px;
+    justify-content: center;
+    text-align: center;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+#notes h1{
+    font-size: 48px;
+    color: #001931;
+}
+#notes p{
+    padding-top: 16px;
+    padding-bottom: 44px;
+}
+#notes .card-container{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    gap: 24px;
+}
+#notes .card-container .card{
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    box-shadow: 1px 1px 6px gray;
+    padding: 24px;
+    padding-bottom: 0;
+    border-radius: 5px;
+}
+
+#notes .card-container .card img{
+    background-color: #F95555;
+    padding: 10px;
+    border-radius: 50%;
+    
+}
+#notes .card-container .card h3{
+    padding-top: 16px;
+    padding-bottom: 16px;
 }
