@@ -150,3 +150,39 @@ nav .menu a {
     padding-top: 16px;
     padding-bottom: 16px;
 }
+
+#brain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    padding: 120px;
+    gap: 60px;
+}
+
+#brain .solution{
+    color: #30B868;
+    line-height: 20px;
+}
+
+#brain h1 {
+    font-size: 48px;
+    color: #001931;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+#brain .p{
+    color: #627382;
+}
+
+#brain ul{
+    padding-top: 40px;
+    list-style: none;
+    list-style-image: url(/assets/check\ mark.png);
+    list-style-position: inside;
+}
+
+#brain ul li{
+    padding-bottom: 16px;
+}
